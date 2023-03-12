@@ -1,8 +1,8 @@
 const MIN_FLOAT = 0.01000;
 const MAX_FLOAT = 99.5000;
 
-const MATRIX_X = 500;
-const MATRIX_Y = 500;
+const MATRIX_X = 1000;
+const MATRIX_Y = 1000;
 
 const JSON_DATA_NAME = "data.json";
 const FORMULAS_RESULT_NAME = "result.json";
