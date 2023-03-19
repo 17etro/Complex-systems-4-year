@@ -12,6 +12,10 @@ function kahanSum(inputArray) {
   return sum
 }
 
+module.exports = {
+  kahanSum
+}
+
 // -tests
 
 // result --> 0.6000000000000001
