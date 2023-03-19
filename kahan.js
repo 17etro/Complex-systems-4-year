@@ -18,8 +18,8 @@ module.exports = {
 
 // -tests
 
-// result --> 0.6000000000000001
-console.log(0.1 + 0.2 + 0.3);
+// // result --> 0.6000000000000001
+// console.log(0.1 + 0.2 + 0.3);
 
-// result --> 0.6
-console.log(kahanSum([0.1, 0.2, 0.3]))
+// // result --> 0.6
+// console.log(kahanSum([0.1, 0.2, 0.3]))
